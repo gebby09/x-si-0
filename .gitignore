@@ -1,0 +1,30 @@
+# Fișiere executabile Windows
+*.exe
+*.obj
+*.dll
+
+# Fișiere temporare de compilare
+*.o
+*.out
+
+# Foldere de build
+/build/
+/bin/
+/Debug/
+/Release/
+
+# VS Code settings (locale)
+.vscode/
+
+# Fișiere temporare de la Visual Studio
+*.log
+*.user
+*.suo
+
+# Fișiere temporare și backup
+*~
+*.tmp
+
+# System files
+.DS_Store
+Thumbs.db
